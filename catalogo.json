@@ -136,6 +136,14 @@
    "nombre": "Mi finde (feed)",
    "archivo": "c/finde-feed.json",
    "v": "5854a724"
+  },
+  {
+   "id": "querido-diario",
+   "cat": "diario",
+   "idioma": "es",
+   "nombre": "Querido diario",
+   "archivo": "c/querido-diario.json",
+   "v": "9c2f0320"
   }
  ]
 }
