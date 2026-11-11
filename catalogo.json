@@ -80,6 +80,22 @@
    "nombre": "Lista para la fiesta",
    "archivo": "c/lista-fiesta.json",
    "v": "d52529c0"
+  },
+  {
+   "id": "horario-escolar",
+   "cat": "organizacion",
+   "idioma": "es",
+   "nombre": "Horario escolar",
+   "archivo": "c/horario-escolar.json",
+   "v": "f0a0a596"
+  },
+  {
+   "id": "menu-semanal",
+   "cat": "organizacion",
+   "idioma": "es",
+   "nombre": "Menú semanal",
+   "archivo": "c/menu-semanal.json",
+   "v": "b39acf15"
   }
  ]
 }
