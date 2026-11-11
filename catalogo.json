@@ -82,5 +82,13 @@
    }
   }
  ],
- "composiciones": []
+ "composiciones": [
+  {
+   "id": "lista-fiesta",
+   "cat": "listas",
+   "idioma": "es",
+   "nombre": "Lista para la fiesta",
+   "archivo": "c/lista-fiesta.json"
+  }
+ ]
 }
