@@ -821,6 +821,14 @@
    "v": "b5052bd6"
   },
   {
+   "id": "mi-video",
+   "cat": "instagram",
+   "idioma": "es",
+   "nombre": "Mi vídeo",
+   "archivo": "c/mi-video.json",
+   "v": "c3f3b8a6"
+  },
+  {
    "id": "mi-horario-en",
    "cat": "organizacion",
    "idioma": "en",
@@ -1043,6 +1051,38 @@
    "nombre": "Querido diário",
    "archivo": "c/querido-diario-pt.json",
    "v": "740f0527"
+  },
+  {
+   "id": "mi-video-en",
+   "cat": "instagram",
+   "idioma": "en",
+   "nombre": "My video",
+   "archivo": "c/mi-video-en.json",
+   "v": "f9f3caf7"
+  },
+  {
+   "id": "mi-video-fr",
+   "cat": "instagram",
+   "idioma": "fr",
+   "nombre": "Ma vidéo",
+   "archivo": "c/mi-video-fr.json",
+   "v": "65953b45"
+  },
+  {
+   "id": "mi-video-de",
+   "cat": "instagram",
+   "idioma": "de",
+   "nombre": "Mein Video",
+   "archivo": "c/mi-video-de.json",
+   "v": "1cf30fe8"
+  },
+  {
+   "id": "mi-video-pt",
+   "cat": "instagram",
+   "idioma": "pt",
+   "nombre": "Meu vídeo",
+   "archivo": "c/mi-video-pt.json",
+   "v": "484181d7"
   },
   {
    "id": "baraja-feed-en",
