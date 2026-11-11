@@ -89,6 +89,20 @@
    "idioma": "es",
    "nombre": "Lista para la fiesta",
    "archivo": "c/lista-fiesta.json"
+  },
+  {
+   "id": "festival-verano",
+   "cat": "posters",
+   "idioma": "es",
+   "nombre": "Festival de verano",
+   "archivo": "c/festival-verano.json"
+  },
+  {
+   "id": "taller-plantas",
+   "cat": "posters",
+   "idioma": "es",
+   "nombre": "Taller de plantas",
+   "archivo": "c/taller-plantas.json"
   }
  ]
 }
