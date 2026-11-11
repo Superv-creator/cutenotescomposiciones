@@ -120,6 +120,22 @@
    "nombre": "Cumpleaños",
    "archivo": "c/cumple-lucia.json",
    "v": "2b1e8025"
+  },
+  {
+   "id": "baraja-feed",
+   "cat": "instagram",
+   "idioma": "es",
+   "nombre": "Nuestra baraja (feed)",
+   "archivo": "c/baraja-feed.json",
+   "v": "bc4ed150"
+  },
+  {
+   "id": "finde-feed",
+   "cat": "instagram",
+   "idioma": "es",
+   "nombre": "Mi finde (feed)",
+   "archivo": "c/finde-feed.json",
+   "v": "5854a724"
   }
  ]
 }
