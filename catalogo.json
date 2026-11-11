@@ -1,0 +1,86 @@
+{
+ "v": 1,
+ "categorias": [
+  {
+   "id": "menu",
+   "nombre": {
+    "es": "Menú",
+    "en": "Menu",
+    "fr": "Menu",
+    "de": "Menü",
+    "pt": "Cardápio"
+   }
+  },
+  {
+   "id": "collage",
+   "nombre": {
+    "es": "Collage",
+    "en": "Collage",
+    "fr": "Collage",
+    "de": "Collage",
+    "pt": "Colagem"
+   }
+  },
+  {
+   "id": "invitaciones",
+   "nombre": {
+    "es": "Invitaciones",
+    "en": "Invitations",
+    "fr": "Invitations",
+    "de": "Einladungen",
+    "pt": "Convites"
+   }
+  },
+  {
+   "id": "instagram",
+   "nombre": {
+    "es": "Instagram",
+    "en": "Instagram",
+    "fr": "Instagram",
+    "de": "Instagram",
+    "pt": "Instagram"
+   }
+  },
+  {
+   "id": "listas",
+   "nombre": {
+    "es": "Listas",
+    "en": "Lists",
+    "fr": "Listes",
+    "de": "Listen",
+    "pt": "Listas"
+   }
+  },
+  {
+   "id": "diario",
+   "nombre": {
+    "es": "Diario",
+    "en": "Journal",
+    "fr": "Journal",
+    "de": "Tagebuch",
+    "pt": "Diário"
+   }
+  },
+  {
+   "id": "posters",
+   "nombre": {
+    "es": "Pósters",
+    "en": "Posters",
+    "fr": "Affiches",
+    "de": "Poster",
+    "pt": "Pôsteres"
+   }
+  },
+  {
+   "id": "tu",
+   "nombre": {
+    "es": "Tú",
+    "en": "You",
+    "fr": "Toi",
+    "de": "Du",
+    "pt": "Você"
+   }
+  }
+ ],
+ "composiciones": []
+}
