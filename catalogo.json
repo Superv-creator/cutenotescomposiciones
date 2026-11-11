@@ -82,20 +82,20 @@
    "v": "d52529c0"
   },
   {
-   "id": "menu-semanal",
-   "cat": "organizacion",
-   "idioma": "es",
-   "nombre": "Menú semanal",
-   "archivo": "c/menu-semanal.json",
-   "v": "b39acf15"
-  },
-  {
    "id": "mi-horario",
    "cat": "organizacion",
    "idioma": "es",
    "nombre": "Mi horario",
    "archivo": "c/mi-horario.json",
-   "v": "747af768"
+   "v": "f7e9cba8"
+  },
+  {
+   "id": "menu-semanal",
+   "cat": "organizacion",
+   "idioma": "es",
+   "nombre": "Menú semanal",
+   "archivo": "c/menu-semanal.json",
+   "v": "70c94402"
   }
  ]
 }
