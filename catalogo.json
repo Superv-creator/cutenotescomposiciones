@@ -24,11 +24,11 @@
   {
    "id": "invitaciones",
    "nombre": {
-    "es": "Invitaciones",
-    "en": "Invitations",
-    "fr": "Invitations",
-    "de": "Einladungen",
-    "pt": "Convites"
+    "es": "Fiestas",
+    "en": "Parties",
+    "fr": "Fêtes",
+    "de": "Feste",
+    "pt": "Festas"
    }
   },
   {
@@ -774,6 +774,46 @@
    "nombre": "Lista de compras simples",
    "archivo": "c/app-compra-lista-pt.json",
    "v": "7ba9ffd8"
+  },
+  {
+   "id": "app-fiesta-halloween-es",
+   "cat": "invitaciones",
+   "idioma": "es",
+   "nombre": "Cartel de fiesta",
+   "archivo": "c/app-fiesta-halloween-es.json",
+   "v": "2e56d8cc"
+  },
+  {
+   "id": "app-fiesta-halloween-en",
+   "cat": "invitaciones",
+   "idioma": "en",
+   "nombre": "Party poster",
+   "archivo": "c/app-fiesta-halloween-en.json",
+   "v": "cdc22517"
+  },
+  {
+   "id": "app-fiesta-halloween-fr",
+   "cat": "invitaciones",
+   "idioma": "fr",
+   "nombre": "Affiche de fête",
+   "archivo": "c/app-fiesta-halloween-fr.json",
+   "v": "b8af9c3a"
+  },
+  {
+   "id": "app-fiesta-halloween-de",
+   "cat": "invitaciones",
+   "idioma": "de",
+   "nombre": "Party-Plakat",
+   "archivo": "c/app-fiesta-halloween-de.json",
+   "v": "556fb1ac"
+  },
+  {
+   "id": "app-fiesta-halloween-pt",
+   "cat": "invitaciones",
+   "idioma": "pt",
+   "nombre": "Cartaz de festa",
+   "archivo": "c/app-fiesta-halloween-pt.json",
+   "v": "b5052bd6"
   }
  ]
 }
