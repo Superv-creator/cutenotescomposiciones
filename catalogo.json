@@ -104,6 +104,14 @@
    "nombre": "Nuestra baraja",
    "archivo": "c/baraja-fotos.json",
    "v": "6b37885e"
+  },
+  {
+   "id": "mi-finde",
+   "cat": "collage",
+   "idioma": "es",
+   "nombre": "Mi finde",
+   "archivo": "c/mi-finde.json",
+   "v": "a9d4cc43"
   }
  ]
 }
