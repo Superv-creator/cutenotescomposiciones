@@ -112,6 +112,14 @@
    "nombre": "Mi finde",
    "archivo": "c/mi-finde.json",
    "v": "a9d4cc43"
+  },
+  {
+   "id": "cumple-lucia",
+   "cat": "invitaciones",
+   "idioma": "es",
+   "nombre": "Cumpleaños",
+   "archivo": "c/cumple-lucia.json",
+   "v": "2b1e8025"
   }
  ]
 }
