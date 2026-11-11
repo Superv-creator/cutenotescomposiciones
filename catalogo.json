@@ -2,13 +2,13 @@
  "v": 1,
  "categorias": [
   {
-   "id": "menu",
+   "id": "organizacion",
    "nombre": {
-    "es": "Menú",
-    "en": "Menu",
-    "fr": "Menu",
-    "de": "Menü",
-    "pt": "Cardápio"
+    "es": "Organización",
+    "en": "Organization",
+    "fr": "Organisation",
+    "de": "Organisation",
+    "pt": "Organização"
    }
   },
   {
@@ -62,16 +62,6 @@
    }
   },
   {
-   "id": "posters",
-   "nombre": {
-    "es": "Pósters",
-    "en": "Posters",
-    "fr": "Affiches",
-    "de": "Poster",
-    "pt": "Pôsteres"
-   }
-  },
-  {
    "id": "tu",
    "nombre": {
     "es": "Tú",
@@ -90,22 +80,6 @@
    "nombre": "Lista para la fiesta",
    "archivo": "c/lista-fiesta.json",
    "v": "d52529c0"
-  },
-  {
-   "id": "festival-verano",
-   "cat": "posters",
-   "idioma": "es",
-   "nombre": "Festival de verano",
-   "archivo": "c/festival-verano.json",
-   "v": "36fa4889"
-  },
-  {
-   "id": "taller-plantas",
-   "cat": "posters",
-   "idioma": "es",
-   "nombre": "Taller de plantas",
-   "archivo": "c/taller-plantas.json",
-   "v": "2d90d98d"
   }
  ]
 }
