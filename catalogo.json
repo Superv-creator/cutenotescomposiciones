@@ -826,7 +826,7 @@
    "idioma": "es",
    "nombre": "Mi vídeo",
    "archivo": "c/mi-video.json",
-   "v": "c3f3b8a6"
+   "v": "a7641068"
   },
   {
    "id": "mi-horario-en",
@@ -1058,7 +1058,7 @@
    "idioma": "en",
    "nombre": "My video",
    "archivo": "c/mi-video-en.json",
-   "v": "f9f3caf7"
+   "v": "dc916626"
   },
   {
    "id": "mi-video-fr",
@@ -1066,7 +1066,7 @@
    "idioma": "fr",
    "nombre": "Ma vidéo",
    "archivo": "c/mi-video-fr.json",
-   "v": "65953b45"
+   "v": "f81612a8"
   },
   {
    "id": "mi-video-de",
@@ -1074,7 +1074,7 @@
    "idioma": "de",
    "nombre": "Mein Video",
    "archivo": "c/mi-video-de.json",
-   "v": "1cf30fe8"
+   "v": "80d36301"
   },
   {
    "id": "mi-video-pt",
@@ -1082,7 +1082,7 @@
    "idioma": "pt",
    "nombre": "Meu vídeo",
    "archivo": "c/mi-video-pt.json",
-   "v": "484181d7"
+   "v": "0bf859f7"
   },
   {
    "id": "baraja-feed-en",
