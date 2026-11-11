@@ -96,6 +96,14 @@
    "nombre": "Menú semanal",
    "archivo": "c/menu-semanal.json",
    "v": "70c94402"
+  },
+  {
+   "id": "baraja-fotos",
+   "cat": "collage",
+   "idioma": "es",
+   "nombre": "Nuestra baraja",
+   "archivo": "c/baraja-fotos.json",
+   "v": "6b37885e"
   }
  ]
 }
