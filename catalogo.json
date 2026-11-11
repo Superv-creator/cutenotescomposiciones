@@ -59,7 +59,12 @@
     "fr": "Journal",
     "de": "Tagebuch",
     "pt": "Diário"
-   }
+   },
+   "portada": [
+    "querido-diario",
+    "app-diario-oliva",
+    "app-diario-mono"
+   ]
   }
  ],
  "composiciones": [
