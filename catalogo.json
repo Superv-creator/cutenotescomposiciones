@@ -92,20 +92,20 @@
    "v": "d52529c0"
   },
   {
-   "id": "taller-plantas",
-   "cat": "posters",
-   "idioma": "es",
-   "nombre": "Taller de plantas",
-   "archivo": "c/taller-plantas.json",
-   "v": "e52ce228"
-  },
-  {
    "id": "festival-verano",
    "cat": "posters",
    "idioma": "es",
    "nombre": "Festival de verano",
    "archivo": "c/festival-verano.json",
    "v": "36fa4889"
+  },
+  {
+   "id": "taller-plantas",
+   "cat": "posters",
+   "idioma": "es",
+   "nombre": "Taller de plantas",
+   "archivo": "c/taller-plantas.json",
+   "v": "2d90d98d"
   }
  ]
 }
