@@ -60,16 +60,6 @@
     "de": "Tagebuch",
     "pt": "Diário"
    }
-  },
-  {
-   "id": "tu",
-   "nombre": {
-    "es": "Tú",
-    "en": "You",
-    "fr": "Toi",
-    "de": "Du",
-    "pt": "Você"
-   }
   }
  ],
  "composiciones": [
