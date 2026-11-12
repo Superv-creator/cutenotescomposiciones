@@ -34,11 +34,11 @@
   {
    "id": "instagram",
    "nombre": {
-    "es": "Instagram",
-    "en": "Instagram",
-    "fr": "Instagram",
-    "de": "Instagram",
-    "pt": "Instagram"
+    "es": "Instagram (feed)",
+    "en": "Instagram (feed)",
+    "fr": "Instagram (feed)",
+    "de": "Instagram (feed)",
+    "pt": "Instagram (feed)"
    }
   },
   {
@@ -120,7 +120,7 @@
    "id": "baraja-feed",
    "cat": "instagram",
    "idioma": "es",
-   "nombre": "Nuestra baraja (feed)",
+   "nombre": "Nuestra baraja",
    "archivo": "c/baraja-feed.json",
    "v": "bc4ed150"
   },
@@ -128,7 +128,7 @@
    "id": "finde-feed",
    "cat": "instagram",
    "idioma": "es",
-   "nombre": "Mi finde (feed)",
+   "nombre": "Mi finde",
    "archivo": "c/finde-feed.json",
    "v": "5854a724"
   },
