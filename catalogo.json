@@ -1147,14 +1147,6 @@
    "nombre": "Meu fim de semana",
    "archivo": "c/finde-feed-pt.json",
    "v": "43238979"
-  },
-  {
-   "id": "checklist-arcoiris-uw2l",
-   "cat": "organizacion",
-   "idioma": "es",
-   "nombre": "Checklist Arcoíris",
-   "archivo": "c/checklist-arcoiris-uw2l.json",
-   "v": "444217e2"
   }
  ]
 }
